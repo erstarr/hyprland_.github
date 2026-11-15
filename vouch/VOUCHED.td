@@ -116,6 +116,7 @@ github:JacksonDCollins
 github:icp4u
 github:zx2c4
 github:kleinbem
+github:dar1k-ness
 
 # Denounced
 

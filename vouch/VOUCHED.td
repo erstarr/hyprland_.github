@@ -118,6 +118,7 @@ github:zx2c4
 github:kleinbem
 github:dar1k-ness
 github:szymon-jozef
+github:johnhamelink
 
 # Denounced
 

@@ -119,6 +119,7 @@ github:kleinbem
 github:dar1k-ness
 github:szymon-jozef
 github:johnhamelink
+github:jgopel
 
 # Denounced
 

@@ -120,6 +120,7 @@ github:dar1k-ness
 github:szymon-jozef
 github:johnhamelink
 github:jgopel
+github:myamusashi
 
 # Denounced
 

@@ -121,6 +121,7 @@ github:szymon-jozef
 github:johnhamelink
 github:jgopel
 github:myamusashi
+github:faetalize
 
 # Denounced
 
